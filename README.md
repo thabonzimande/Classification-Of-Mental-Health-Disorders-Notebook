@@ -4,7 +4,7 @@ What is Mental Illness?
 
 - A mental disorder is also characterized by a clinically significant disturbance in an individual's cognition, emotional regulation, or behavior, often in a social context.
 
-Driven by my own personal battles I tasked myself with creating an Advanced Classification algorithm to predict whether an individual suffers from mental illness or not. The model will then predict/diagnose which specific Mental Health condition an individual suffers from based on 17 standard symptoms used by Mental Health Proffesionals as indicators. The potential for such a tool is atronomical as I beleieve it could bridge the gap between South Africans and affordable mental healthcare, a type of healthcare that is severley.
+Driven by my own personal battles I tasked myself with creating an Advanced Classification algorithm to predict whether an individual suffers from mental illness or not. The model will then predict/diagnose which specific Mental Health condition an individual suffers from based on 17 standard symptoms used by Mental Health Proffesionals as indicators. The potential for such a tool is atronomical as I beleieve it could bridge the gap between South Africans and affordable mental healthcare, a type of healthcare that is severley overlooked. Integrating AI and Machine Learning tools is first step in revolutionizing the field of healthcare.
 
 ### About the Dataset
 
