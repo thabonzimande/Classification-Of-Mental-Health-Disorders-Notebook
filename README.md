@@ -1,4 +1,4 @@
-
+![image](https://github.com/thabonzimande/Classification-Of-Mental-Health-Disorders-Notebook/assets/131514260/ab018246-63bd-40ce-82f1-1f3488c992ac)
 
 What is Mental Illness?
 
